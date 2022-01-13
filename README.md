@@ -13,3 +13,5 @@ $ jhead -ce yourfiles.jpg
 $ jhead yourfiles.jpg
 
 Example : site.com/youfiles.php?cmd=Command Here
+
+![IMG_20220114_032121](https://user-images.githubusercontent.com/59664965/149403478-971702dc-e545-4865-8ebe-8251ed315f90.jpg)
