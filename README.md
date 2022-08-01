@@ -10,6 +10,8 @@ $ jhead -purejpg yourfiles.jpg
 
 $ jhead -ce yourfiles.jpg
 
+Click ESC typed :x to save
+
 $ jhead yourfiles.jpg
 
 Example : site.com/youfiles.php?cmd=Command Here
